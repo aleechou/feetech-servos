@@ -1,7 +1,6 @@
 {
-  "name": "feetech-servo",
+  "name": "feetech-servos",
   "version": "0.0.1",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "_ansi-regex@2.1.1@ansi-regex": "^2.1.1",
@@ -116,6 +115,7 @@
     "tunnel-agent": "^0.6.0",
     "unzip-response": "^1.0.2",
     "util-deprecate": "^1.0.2",
+    "vuex": "^3.0.1",
     "wide-align": "^1.1.2",
     "wrappy": "^1.0.2",
     "xtend": "^4.0.1"
@@ -125,5 +125,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "alee",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleechou/feetech-servos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aleechou/feetech-servos/issues"
+  },
+  "homepage": "https://github.com/aleechou/feetech-servos#readme",
+  "description": ""
 }
